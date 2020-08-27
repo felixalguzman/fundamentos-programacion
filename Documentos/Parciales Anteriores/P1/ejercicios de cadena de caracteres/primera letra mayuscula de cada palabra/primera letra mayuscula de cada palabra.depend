@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446684059 source:c:\fundamento de programacion\practicas\ejercicios de cadena de caracteres\primera letra mayuscula de cada palabra\main.c
+	<stdio.h>
+	<stdlib.h>
+

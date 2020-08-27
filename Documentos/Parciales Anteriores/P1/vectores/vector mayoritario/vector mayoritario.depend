@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447291594 source:c:\fundamento de programacion\practicas\vectores\vector mayoritario\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1444365370 source:c:\fundamento de programacion\olis\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1444365370 source:c:\fundamento de programacion\practicas\ejercicios de cadena de caracteres\olis\main.c
+	<stdio.h>
+	<stdlib.h>
+

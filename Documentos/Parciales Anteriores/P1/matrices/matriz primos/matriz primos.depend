@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447046567 source:c:\fundamento de programacion\practicas\matrices\matriz primos\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1441410341 source:c:\users\20140565\documents\coversionfac\main.cpp
+	<iostream>
+	<stdlib.h>
+

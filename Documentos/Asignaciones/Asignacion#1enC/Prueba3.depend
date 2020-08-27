@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1442627287 source:c:\users\felix\desktop\prueba3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1442628828 source:c:\users\felix\onedrive\documentos\universidad\4to semestre\fundamento de programacion\documentos\asignaciones\asignacion#1enc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

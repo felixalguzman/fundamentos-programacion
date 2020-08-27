@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1449520284 source:c:\users\felix\onedrive\documentos\universidad\4to semestre\fundamento de programacion\documentos\asignaciones\asignacionfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<memory.h>
+	<time.h>
+	<conio.c>
+	<ctype.h>
+

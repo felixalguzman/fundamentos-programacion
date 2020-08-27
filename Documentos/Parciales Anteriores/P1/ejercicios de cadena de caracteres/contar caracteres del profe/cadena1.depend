@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1443843502 source:c:\fundamento de programacion\practicas\cadena1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1443843892 source:c:\fundamento de programacion\practicas\ejercicios de cadena de caracteres\cadena1\main.c
+	<stdio.h>
+	<stdlib.h>
+

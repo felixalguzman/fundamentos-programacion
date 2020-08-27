@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1445030721 source:c:\users\felix\documents\fundamento de programacion\pruebaastericos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1445202683 source:c:\users\felix alejandro\onedrive\documentos\universidad\4to semestre\fundamento de programacion\documentos\asignaciones\asignacion#2enc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
